@@ -1,0 +1,18 @@
+body {
+    background-color: aliceblue;
+}
+
+.col-md-12.col-sm-12 {
+    padding: 0px;
+    margin: 8px;
+    height: 145px;
+}
+
+li.list-group-item img {
+    width: 75px !important;
+    height: 75px;
+}
+
+.col-md-6.col-lg-6 {
+    max-width: 351px;
+}
